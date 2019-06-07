@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CasclientaApplication {
+public class CasClientApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CasclientaApplication.class, args);
+        SpringApplication.run(CasClientApplication.class, args);
     }
 
 }
