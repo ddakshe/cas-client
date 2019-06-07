@@ -1,4 +1,4 @@
-package com.server.config.casclienta;
+package com.server.casclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
